@@ -1,21 +1,106 @@
 ﻿<!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
+
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Devpetrik</title>
-    <link rel="stylesheet" href="estilos/style.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
 </head>
+
 <body>
-    <main>
-        <header>
-            <img class="lado" src="imagens/Devpetrik.png" alt="My selfie">
-            <h1>Wallace Petrik</h1>
-        </header>
-        <article class="conteudo">
+    <header class="cabecalho">
+        <a href="#">
+            <h1 class="logo">Devpetrik</h1>
+        </a>
+        <nav class="menu">
+            <ul>
+                <li>
+                    <a href="#projetos">Meus projetos</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section class="home">
+        <div class="informacoes">
+            <h1 >Olá! Sou Wallace Petrik</h1>
+            <p>Um desenvolvedor mobile em formação apaixonado por tecnologia.</p>
+            <p>Estou sempre me desafiando com novos projetos e buscando feedback para meu desenvolvimento, além de
+                compartilhar meus conhecimentos! 😎😁</p>
+            <ul>
+                <li>
+                    <a href="https://www.linkedin.com/in/wallacepetrik/" title="Ir para o LindedIn" target="_blank">
+                        <i class="fab fa-linkedin-in"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://wa.me/5521980283849" title="Enviar Mensagem no WhatsApp" target="_blank">
+                        <i class="fab fa-whatsapp"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/Wallace-petrik" title="Ir para o GitHub" target="_blank">
+                        <i class="fab fa-github"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/devpetrik/" title="Ir para o Instagram" target="_blank">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="container-foto">
+            <div class="foto sombra-interna">
+                <img src="./scr/imagens/Devpetrik.png" alt="Foto do portfólio do Wallace Petrik">
+            </div>
+        </div>
+    </section>
+    <section class="projetos" id="projetos">
+        <h2 class="titulo">Meus Projetos</h2>
 
-            <p>Portfolio em desenvolvimento</p>
-            <a href="https://drive.google.com/file/d/1xWKKq7kyNJkiZ0bjLtn35_8HlKbUBRdr/preview" target="_blank">Clique aqui para acessar o currículo</a>
-        </article>
-    </main>
+        <div class="container-projetos">
+            <div class="projetos ativos">
+                <a href="https://github.com/Wallace-petrik " target="_blank">
+                    <img src="https://via.placeholder.com/515x700" alt="Projetos">
+                    <h3>Projeto 1</h3>
+                    <div class="informacoes-projeto">
+                        <p>Projeto Feito Usando html, css e javascript</p>
+                        <p>Ver projeto no Git</p>
+                    </div>
+                </a>
+            </div>
+            <div class="projetos ativos">
+                <a href="https://github.com/Wallace-petrik " target="_blank">
+                    <img src="https://via.placeholder.com/515x700" alt="Projetos">
+                    <h3>Projeto 3</h3>
+                    <div class="informacoes-projeto">
+                        <p>Projeto Feito Usando html, css e javascript</p>
+                        <p>Ver projeto no Git</p>
+                    </div>
+                </a>
+            </div>
+            <div class="projetos ativos">
+                <a href="https://github.com/Wallace-petrik " target="_blank">
+                    <img src="https://via.placeholder.com/515x700" alt="Projetos">
+                    <h3>Projeto 2</h3>
+                    <div class="informacoes-projeto">
+                        <p>Projeto Feito Usando html, css e javascript</p>
+                        <p>Ver projeto no Git</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <button class="btn-mostrar-projetos">Mostrar Mais</button>
+    </section>
 </body>
-</html>
 
+</html>

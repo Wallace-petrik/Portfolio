@@ -1,4 +1,22 @@
-# Portfólio
+# Meu Portfólio
 
-Bem-vindo ao meu portfólio online hospedado no GitHub! Este site serve como um espaço central onde você pode encontrar uma coleção de projetos e trabalhos que demonstram minhas habilidades e experiência em desenvolvimento de software e outras áreas relacionadas. 
-#
+Bem-vindo ao meu portfólio online, onde você pode explorar meus projetos, habilidades e a minha trajetória como desenvolvedor. Este site foi criado para compartilhar minha paixão por tecnologia e inovação
+
+## Sobre Mim
+
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Estou sempre buscando aprender mais e aplicar meus conhecimentos em projetos desafiadores.
+
+## Habilidades
+
+Aqui estão algumas das tecnologias e linguagens com as quais eu conheço:
+
+- **Linguagens de Programação**: Java, C
+- **Ferramentas**: Git, Code Blocks
+...
+
+## Contato
+
+Se você quiser saber mais sobre meu trabalho ou colaborar em um projeto, fique à vontade para entrar em contato!
+
+- **E-mail**: wallacepetrik@gmail.com
+- **LinkedIn**: [Wallace Petrik](https://www.linkedin.com/in/wallacepetrik/)

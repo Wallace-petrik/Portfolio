@@ -11,12 +11,12 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Estou sempre buscan
 Aqui estão algumas das tecnologias e linguagens com as quais eu conheço:
 
 - **Linguagens de Programação**: Java, C
-- **Ferramentas**: Git, Code Blocks
-...
+- **Ferramentas**: Git
 
 ## Contato
 
 Se você quiser saber mais sobre meu trabalho ou colaborar em um projeto, fique à vontade para entrar em contato!
 
 - **E-mail**: wallacepetrik@gmail.com
-- **LinkedIn**: [Wallace Petrik](https://www.linkedin.com/in/wallacepetrik/)
+
+- ### [Acesse meu perfil no portfólio](https://devpetrik.com.br/)  | [Acesse meu perfil no Linkedin](https://www.linkedin.com/in/wallace-petrik-45b9471b4/)

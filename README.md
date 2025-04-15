@@ -19,4 +19,3 @@ Se você quiser saber mais sobre meu trabalho ou colaborar em um projeto, fique 
 
 - **E-mail**: wallacepetrik@gmail.com
 
-- ### [Acesse meu perfil no portfólio](https://devpetrik.com.br/)  | [Acesse meu perfil no Linkedin](https://www.linkedin.com/in/wallace-petrik-45b9471b4/)

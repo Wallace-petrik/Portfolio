@@ -11,7 +11,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Estou sempre buscan
 Aqui estão algumas das tecnologias e linguagens com as quais eu conheço:
 
 - **Linguagens de Programação**: Java, C
-- **Ferramentas**: Git
 
 ## Contato
 

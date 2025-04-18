@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio online, onde você pode explorar meus projetos, habi
 
 ## Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Estou sempre buscando aprender mais e aplicar meus conhecimentos em projetos desafiadores.
+Sou um desenvolvedor apaixonado android por tecnologia e inovação. Estou sempre buscando aprender mais e aplicar meus conhecimentos em projetos desafiadores.
 
 ## Habilidades
 

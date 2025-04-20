@@ -17,4 +17,4 @@ Aqui estão algumas das tecnologias e linguagens com as quais eu conheço:
 Se você quiser saber mais sobre meu trabalho ou colaborar em um projeto, fique à vontade para entrar em contato!
 
 - **E-mail**: wallacepetrik@gmail.com
-
+- **Tel**: +55 21 98028-3849

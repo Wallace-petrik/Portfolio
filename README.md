@@ -10,7 +10,7 @@ Sou um desenvolvedor android apaixonado por tecnologia e inovação. Estou sempr
 
 Aqui estão algumas das tecnologias e linguagens com as quais eu conheço:
 
-- **Linguagens de Programação**: Java, C
+- **Linguagens de Programação**: C
 
 ## Contato
 
